@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo My Login App</string>
+    <string name="lb">LOGIN</string>
+    <string name="cb">CANCEL</string>
+</resources>
